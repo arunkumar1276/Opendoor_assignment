@@ -20,4 +20,7 @@ Hypothesis: Introduction of new products may affect purchase behaviour to change
 
 we can confirm this by analyzing the customer behviour in relation with new product offerings or any product offering changes.
 
-5.
+5.economic factors:
+Hypothesis:Economic conditions might impact customer spending habits.
+
+Consider economic indicators and their correlation with the decline. Evaluate if changes in income or economic confidence align with the trend.
