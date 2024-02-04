@@ -13,7 +13,7 @@ select customer_type
   -- we can also take epoch month, but year month makes more sense here
   -- , year(checkouts.date)*12 + month(checkouts.date) as epoch_month
   , sum(checkout_items.quantity) as sale_quantity
-  , sum(checkout_items.quantity * price_per_unit_cents)/ 100 as sale_value_dollars
+  , sum(checkout_items.quantity * checkout_items.price_per_unit_cents)/ 100 as sale_value_dollars
 from checkouts
 left join checkout_items
   on checkouts.cartid = checkout_items.cartid
