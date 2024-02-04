@@ -1,0 +1,23 @@
+The avg cart value going down can be caused by by multiple reasons, conditions. Some of whihc can be as follows.
+
+1. Shift in customer behavior
+Hypothesis: difference in behaviour between cohorts.
+
+we can get this by analyzing the data and comapring the metrics like purchase frequency, cart size, cart value, category wise splits in metrics,
+
+2. pricing/promotional changes.
+Hypothesis: change in prices,discounts,promotions might cause the avg cart value to change.
+
+we can conirm this by studying the hisotrical price and promotional data for each cohort and how it affected the cart value of cohorts.
+
+3. amazon prime free delivery
+Hypothesis: since prime ha no restriction on cart value for free delivery, it encirages customers to places low cart size orders whihc in turn effect the avg cart value
+
+we can confirm this by before and after prime behaviour
+
+4. Product mix:
+Hypothesis: Introduction of new products may affect purchase behaviour to change( like increase in frequency)
+
+we can confirm this by analyzing the customer behviour in relation with new product offerings or any product offering changes.
+
+5.
